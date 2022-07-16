@@ -4,6 +4,10 @@ Write a battleship game using Vanilla.js
 
 ![Demonstration of Battleship](https://github.com/breatheco-de/exercise-battleship-vanillajs/blob/master/preview.gif?raw=true)
 
+To Run the server copy and paste this command in the terminal: 
+
+npx http-server --yes -c-1
+
 ## 🌱  How to start this project
 
 Do not clone this repository.
